@@ -1,0 +1,3 @@
+/home/master/dev/code/cpps/minilog/out/Debug/CMakeFiles/main.dir
+/home/master/dev/code/cpps/minilog/out/Debug/CMakeFiles/edit_cache.dir
+/home/master/dev/code/cpps/minilog/out/Debug/CMakeFiles/rebuild_cache.dir

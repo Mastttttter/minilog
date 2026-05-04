@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/master/dev/code/cpps/minilog/out/Debug",
+  "command": "/usr/bin/c++  -I/home/master/dev/code/cpps/minilog/. -g -std=gnu++26 -o CMakeFiles/main.dir/main.cpp.o -c /home/master/dev/code/cpps/minilog/main.cpp",
+  "file": "/home/master/dev/code/cpps/minilog/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
